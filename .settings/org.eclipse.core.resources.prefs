@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
-encoding//src/ChatClient.java=UTF-8
-encoding//src/ChatServer.java=UTF-8
 encoding//src/Child.java=MS949
-encoding//src/ClientExample.java=UTF-8
+encoding//src/NonSerializableParentExmaple.java=UTF-8
+encoding//src/com/thisIsJava/chap18/ChatClient.java=UTF-8
+encoding//src/com/thisIsJava/chap18/ChatServer.java=UTF-8
+encoding//src/com/thisIsJava/chap18/ClientExample.java=UTF-8
